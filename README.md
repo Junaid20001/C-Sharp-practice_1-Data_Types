@@ -1,2 +1,2 @@
-# C-practice_1
+# C#-practice_1
 Practice of C Sharp .NET
