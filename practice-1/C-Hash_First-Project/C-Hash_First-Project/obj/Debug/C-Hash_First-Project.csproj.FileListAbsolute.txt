@@ -1,0 +1,8 @@
+C:\Users\junai\OneDrive\Desktop\C#\practice-1\C-Hash_First-Project\C-Hash_First-Project\bin\Debug\C-Hash_First-Project.exe.config
+C:\Users\junai\OneDrive\Desktop\C#\practice-1\C-Hash_First-Project\C-Hash_First-Project\bin\Debug\C-Hash_First-Project.exe
+C:\Users\junai\OneDrive\Desktop\C#\practice-1\C-Hash_First-Project\C-Hash_First-Project\bin\Debug\C-Hash_First-Project.pdb
+C:\Users\junai\OneDrive\Desktop\C#\practice-1\C-Hash_First-Project\C-Hash_First-Project\obj\Debug\C-Hash_First-Project.csproj.AssemblyReference.cache
+C:\Users\junai\OneDrive\Desktop\C#\practice-1\C-Hash_First-Project\C-Hash_First-Project\obj\Debug\C-Hash_First-Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\junai\OneDrive\Desktop\C#\practice-1\C-Hash_First-Project\C-Hash_First-Project\obj\Debug\C-Hash_First-Project.csproj.CoreCompileInputs.cache
+C:\Users\junai\OneDrive\Desktop\C#\practice-1\C-Hash_First-Project\C-Hash_First-Project\obj\Debug\C-Hash_First-Project.exe
+C:\Users\junai\OneDrive\Desktop\C#\practice-1\C-Hash_First-Project\C-Hash_First-Project\obj\Debug\C-Hash_First-Project.pdb
